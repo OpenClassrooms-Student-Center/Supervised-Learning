@@ -1,0 +1,144 @@
+country,happiness,region
+Afghanistan,3.982854605,South Asia
+Albania,4.606650829,Europe & Central Asia
+Argentina,6.69713068,Latin America & Caribbean
+Armenia,4.34831953,Europe & Central Asia
+Australia,7.309060574,East Asia & Pacific
+Austria,7.07644701,Europe & Central Asia
+Azerbaijan,5.146774769,Europe & Central Asia
+Bahrain,6.00737524,Middle East & North Africa
+Bangladesh,4.633473873,South Asia
+Belarus,5.718907833,Europe & Central Asia
+Belgium,6.904219151,Europe & Central Asia
+Benin,3.624664307,Sub-Saharan Africa
+Bhutan,5.082128525,South Asia
+Bolivia,5.834329128,Latin America & Caribbean
+Bosnia and Herzegovina,5.117177963,Europe & Central Asia
+Botswana,3.761964798,Sub-Saharan Africa
+Brazil,6.546896935,Latin America & Caribbean
+Bulgaria,4.865401268,Europe & Central Asia
+Burkina Faso,4.418930054,Sub-Saharan Africa
+Cambodia,4.162164688,East Asia & Pacific
+Cameroon,5.037964821,Sub-Saharan Africa
+Canada,7.412772655,North America
+Chad,4.322675228,Sub-Saharan Africa
+Chile,6.532749653,Latin America & Caribbean
+China,5.303877831,East Asia & Pacific
+Colombia,6.387571812,Latin America & Caribbean
+"Congo, Rep.",4.690830231,Sub-Saharan Africa
+"Congo, Dem. Rep.",3.902741671,Sub-Saharan Africa
+Costa Rica,6.854004383,Latin America & Caribbean
+Croatia,5.205438137,Europe & Central Asia
+Cyprus,5.439161301,Europe & Central Asia
+Czech Republic,6.608017445,Europe & Central Asia
+Denmark,7.514424801,Europe & Central Asia
+Dominican Republic,5.061862469,Latin America & Caribbean
+Ecuador,5.964075089,Latin America & Caribbean
+Egypt,4.762538433,Middle East & North Africa
+El Salvador,6.018496037,Latin America & Caribbean
+Estonia,5.628908634,Europe & Central Asia
+Ethiopia,4.573154926,Sub-Saharan Africa
+Finland,7.447925568,Europe & Central Asia
+France,6.357625008,Europe & Central Asia
+Gabon,4.66101265,Sub-Saharan Africa
+Georgia,4.121940613,Europe & Central Asia
+Germany,7.037137508,Europe & Central Asia
+Ghana,3.985916138,Sub-Saharan Africa
+Greece,5.622519016,Europe & Central Asia
+Guatemala,6.464986801,Latin America & Caribbean
+Guinea,3.504693508,Sub-Saharan Africa
+Haiti,3.569762468,Latin America & Caribbean
+Honduras,4.845436573,Latin America & Caribbean
+Hungary,5.34438324,Europe & Central Asia
+Iceland,7.498070717,Europe & Central Asia
+India,4.342079163,South Asia
+Indonesia,5.04279995,East Asia & Pacific
+Iran,4.749955654,Middle East & North Africa
+Iraq,4.493377209,Middle East & North Africa
+Ireland,6.830125332,Europe & Central Asia
+Israel,7.07941103,Middle East & North Africa
+Italy,5.847683907,Europe & Central Asia
+Ivory Coast,4.445038795,Sub-Saharan Africa
+Japan,5.879684448,East Asia & Pacific
+Jordan,5.404593468,Middle East & North Africa
+Kazakhstan,5.949995041,Europe & Central Asia
+Kenya,4.357617855,Sub-Saharan Africa
+Kosovo,5.077460766,Europe & Central Asia
+Kuwait,6.146031857,Middle East & North Africa
+Kyrgyz Republic,4.905375957,Europe & Central Asia
+Latvia,5.880597591,Europe & Central Asia
+Lebanon,5.171971321,Middle East & North Africa
+Liberia,2.701591253,Sub-Saharan Africa
+Libya,5.615404606,Middle East & North Africa
+Lithuania,5.711378098,Europe & Central Asia
+Luxembourg,6.701571465,Europe & Central Asia
+"Macedonia, FYR",4.975589752,Europe & Central Asia
+Madagascar,3.592514038,Sub-Saharan Africa
+Malawi,3.86763835,Sub-Saharan Africa
+Malaysia,6.322121143,East Asia & Pacific
+Mali,4.582098484,Sub-Saharan Africa
+Malta,6.61339426,Middle East & North Africa
+Mauritania,3.922664165,Sub-Saharan Africa
+Mexico,6.236287117,Latin America & Caribbean
+Moldova,6.017472267,Europe & Central Asia
+Mongolia,4.982719898,East Asia & Pacific
+Montenegro,5.124921322,Europe & Central Asia
+Morocco,5.163156986,Middle East & North Africa
+Mozambique,4.549767494,Sub-Saharan Africa
+Myanmar,4.223846436,East Asia & Pacific
+Nepal,4.812436581,South Asia
+Netherlands,7.324437141,Europe & Central Asia
+New Zealand,7.418120861,East Asia & Pacific
+Nicaragua,5.924112797,Latin America & Caribbean
+Niger,3.671453714,Sub-Saharan Africa
+Nigeria,4.932914734,Sub-Saharan Africa
+North Cyprus,5.842550278,Europe & Central Asia
+Norway,7.603433609,Europe & Central Asia
+Pakistan,4.823194981,South Asia
+Palestine,4.695239067,Middle East & North Africa
+Panama,6.605550289,Latin America & Caribbean
+Paraguay,5.559724331,Latin America & Caribbean
+Peru,5.577263355,Latin America & Caribbean
+Philippines,5.547489166,East Asia & Pacific
+Poland,6.007021904,Europe & Central Asia
+Portugal,5.080866337,Europe & Central Asia
+Qatar,6.374529362,Middle East & North Africa
+Romania,5.777491093,Europe & Central Asia
+Russia,5.995538712,Europe & Central Asia
+Rwanda,3.483108997,Sub-Saharan Africa
+Saudi Arabia,6.345491886,Middle East & North Africa
+Senegal,4.61700058,Sub-Saharan Africa
+Serbia,5.317685127,Europe & Central Asia
+Sierra Leone,4.908617973,Sub-Saharan Africa
+Singapore,6.619524956,East Asia & Pacific
+Slovak Republic,6.162004471,Europe & Central Asia
+Slovenia,5.740642071,Europe & Central Asia
+Somalia,5.353644848,Sub-Saharan Africa
+South Africa,4.887325764,Sub-Saharan Africa
+South Korea,5.780211449,East Asia & Pacific
+South Sudan,4.070771217,Sub-Saharan Africa
+Spain,6.380663395,Europe & Central Asia
+Sri Lanka,4.611606598,South Asia
+Sweden,7.28892231,Europe & Central Asia
+Switzerland,7.572136879,Europe & Central Asia
+Syria,3.46191287,Middle East & North Africa
+Taiwan Province of China,6.450088024,East Asia & Pacific
+Tajikistan,5.124210835,Europe & Central Asia
+Tanzania,3.660597324,Sub-Saharan Africa
+Thailand,6.201762676,East Asia & Pacific
+Togo,3.768301964,Sub-Saharan Africa
+Tunisia,5.131611824,Middle East & North Africa
+Turkey,5.514465332,Europe & Central Asia
+Turkmenistan,5.791460037,Europe & Central Asia
+Uganda,4.237686634,Sub-Saharan Africa
+Ukraine,3.964542866,Europe & Central Asia
+United Arab Emirates,6.568397522,Middle East & North Africa
+United Kingdom,6.515445232,Europe & Central Asia
+United States,6.863946915,North America
+Uruguay,6.628080368,Latin America & Caribbean
+Uzbekistan,5.972364426,Europe & Central Asia
+Venezuela,5.568800449,Latin America & Caribbean
+Vietnam,5.076315403,East Asia & Pacific
+Yemen,2.982673883,Middle East & North Africa
+Zambia,4.843164444,Sub-Saharan Africa
+Zimbabwe,3.70319128,Sub-Saharan Africa
